@@ -1,5 +1,5 @@
 """
-mafiahost3.py
+cohost.py
 from askaninjask
 
 Goal: To produce a program that will "spit out" results, instead of having
